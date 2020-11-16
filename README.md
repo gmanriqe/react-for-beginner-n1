@@ -1,8 +1,10 @@
 # REACTJS
 
+- https://roadmap.sh/react
+
 ## Abreviatura Comando
 
-- rafc
+- rafc (React Arrow Function Component)
 
 ## Como funciona React ejecutando la primera vista
 
